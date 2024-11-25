@@ -55,7 +55,7 @@ section {
     align-items: center;
     min-height: 100vh;
     width: 100%;
-    background: url("images/slide2.png") no-repeat;
+    background: url("/Website-UTS-Kohan/slide2.png") no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -264,7 +264,7 @@ button {
 
 /* Home */
 /* .Home{
-    background-image: url(images/forest.jpg);
+    background-image: url("/Website-UTS-Kohan/forest".jpg);
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -276,14 +276,14 @@ button {
 }
 
 .slide-1{
-    background: url(images/slide1.png);
+    background: url(/Website-UTS-Kohan/slide1.png);
 }
 
 .slide-2{
-    background: url(images/slide2.png);
+    background: url(/Website-UTS-Kohan/slide2.png);
 }
 .slide-3{
-    background: url(images/slide3.png);
+    background: url(/Website-UTS-Kohan/slide3.png);
 }
 
 .slide{
@@ -537,7 +537,7 @@ h1{
 }
 
 .produk1{
-    background-image: url(images/asset01.png);
+    background-image: url(/Website-UTS-Kohan/asset01.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
